@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32519.379
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leaders2022", "Leaders2022\Leaders2022.csproj", "{42E0D3A8-3C20-4F50-B024-972E43CB9F65}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Leaders2022", "Leaders2022\Leaders2022.csproj", "{42E0D3A8-3C20-4F50-B024-972E43CB9F65}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "leaders2022_front", "Leaders2022_front\leaders2022_front.esproj", "{8D011176-427A-42EB-B9AC-A858F3504C77}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,12 @@ Global
 		{42E0D3A8-3C20-4F50-B024-972E43CB9F65}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42E0D3A8-3C20-4F50-B024-972E43CB9F65}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42E0D3A8-3C20-4F50-B024-972E43CB9F65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D011176-427A-42EB-B9AC-A858F3504C77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D011176-427A-42EB-B9AC-A858F3504C77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D011176-427A-42EB-B9AC-A858F3504C77}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8D011176-427A-42EB-B9AC-A858F3504C77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D011176-427A-42EB-B9AC-A858F3504C77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D011176-427A-42EB-B9AC-A858F3504C77}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
